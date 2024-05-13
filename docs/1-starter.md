@@ -18,11 +18,10 @@
 🎯 The purpose of this project is to write an App called `Zhihu Daily`. You may download the original version of this App to see the result.
 
 <div style="width=100%; display: flex; flex-direction:row; justify-content:center;gap:10px;">
-<img src="/home/steven/Downloads/Screenshot_2024-05-12-22-49-33-011_com.zhihu.daily.android.jpg" alt="Screenshot_2024-05-12-22-49-33-011_com.zhihu.daily.android" style="zoom:25%;" />
-<img src="/home/steven/project/zhihu_daily_2024/images/scroll.jpg" alt="scroll" style="zoom:25%;" />
-<img src="/home/steven/project/zhihu_daily_2024/images/article.jpg" alt="article" style="zoom:25%;" /></div>
-
-<div style="width=100%; display: flex; flex-direction:row; justify-content: center; font-weight: 600;">Final Result</div>
+<img src="images/main.jpg" alt="Screenshot_2024-05-12-22-49-33-011_com.zhihu.daily.android" style="zoom:25%;" />
+<img src="images/scroll.jpg" alt="scroll" style="zoom:25%;" />
+<img src="images/article.jpg" alt="article" style="zoom:25%;" /></div>
+<div style="width=100%; display: flex;color: #a5a5a5; flex-direction:row; justify-content: center; font-weight: 600;">Final Result</div>
 
 🦾 It contains three main functions:
 
@@ -32,7 +31,6 @@
 
 Now, let's implement these one by one.
 
-Starting by analyze the Web API for this app. web api is the bridge from the back-end to the front-end (App, web page, etc.)
+Since this is a Flutter tutorial, we will not cover the backend part, we are going to directly use the exist Zhihu's API. It has already been completed for you and the documentation has been prepared. You just need to refer to it when you use it.
 
-You can find the API document at here TODO: need url
-
+You may find the API reference at [🔗Here](https://github.com/RQ527/ZHIHUAPI)
